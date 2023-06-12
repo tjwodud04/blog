@@ -1,9 +1,7 @@
-source 'https://rubygems.org'
-
-gem 'jekyll'
-
+# Windows does not include zoneinfo files, so bundle the tzinfo-data gem
+gem 'minimal-mistakes-jekyll'
+gem 'tzinfo'
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 group :jekyll_plugins do
-  gem "jekyll-sitemap"
-  gem "jekyll-paginate"
-  gem "jemoji"
+  gem "jekyll-archives"
 end
