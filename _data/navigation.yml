@@ -2,11 +2,21 @@
 #main:
 #  - title: "Quick-Start Guide"
 #    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+#  - title: "About"
+#    url: https://mmistakes.github.io/minimal-mistakes/about/
+#  - title: "Sample Posts"
+#    url: /year-archive/
+#  - title: "Sample Collections"
+#    url: /collection-archive/
+#  - title: "Sitemap"
+#    url: /sitemap/
+
+sidebar-category:
+  - title: "Programming"
+    children:
+      - title: "fastai와 파이토치가 만나 꽃피운 딥러닝"
+        url: "/fastai"
+#      - title: "카테고리B"
+#        url:  "/CategoryB"
+#      - title: "카테고리C"
+#        url:  "/CategoryC"
