@@ -138,7 +138,7 @@ im3
 
 
     
-![png](blogblog/assets/image/04_mnist_basics_files/04_mnist_basics_8_0.png)
+![png](../assets/image/04_mnist_basics_files/04_mnist_basics_8_0.png)
     
 
 
