@@ -138,7 +138,7 @@ im3
 
 
     
-![png](/assets/image/04_mnist_basics_files/04_mnist_basics_8_0.png)
+![png](blogblog/assets/image/04_mnist_basics_files/04_mnist_basics_8_0.png)
     
 
 
@@ -723,7 +723,7 @@ show_image(three_tensors[1]);
 
 
     
-![png](/assets/image/04_mnist_basics_files/04_mnist_basics_13_0.png)
+![png](blog/assets/image/04_mnist_basics_files/04_mnist_basics_13_0.png)
     
 
 
@@ -773,7 +773,7 @@ show_image(mean3);
 
 
     
-![png](/assets/image/04_mnist_basics_files/04_mnist_basics_17_0.png)
+![png](blog/assets/image/04_mnist_basics_files/04_mnist_basics_17_0.png)
     
 
 
@@ -785,7 +785,7 @@ show_image(mean7);
 
 
     
-![png](/assets/image/04_mnist_basics_files/04_mnist_basics_18_0.png)
+![png](blog/assets/image/04_mnist_basics_files/04_mnist_basics_18_0.png)
     
 
 
@@ -797,7 +797,7 @@ show_image(a_3);
 
 
     
-![png](/assets/image/04_mnist_basics_files/04_mnist_basics_19_0.png)
+![png](blog/assets/image/04_mnist_basics_files/04_mnist_basics_19_0.png)
     
 
 
@@ -1076,7 +1076,7 @@ step->predict[label=repeat]
 
 
     
-![svg](/assets/image/04_mnist_basics_files/04_mnist_basics_41_0.svg)
+![svg](blog/assets/image/04_mnist_basics_files/04_mnist_basics_41_0.svg)
     
 
 
@@ -1093,7 +1093,7 @@ plot_function(f, 'x', 'x**2')
 
 
     
-![png](/assets/image/04_mnist_basics_files/04_mnist_basics_43_0.png)
+![png](blog/assets/image/04_mnist_basics_files/04_mnist_basics_43_0.png)
     
 
 
@@ -1105,7 +1105,7 @@ plt.scatter(-1.5, f(-1.5), color='red');
 
 
     
-![png](/assets/image/04_mnist_basics_files/04_mnist_basics_44_0.png)
+![png](blog/assets/image/04_mnist_basics_files/04_mnist_basics_44_0.png)
     
 
 
@@ -1205,7 +1205,7 @@ plt.scatter(time,speed);
 
 
     
-![png](/assets/image/04_mnist_basics_files/04_mnist_basics_53_0.png)
+![png](blog/assets/image/04_mnist_basics_files/04_mnist_basics_53_0.png)
     
 
 
@@ -1253,7 +1253,7 @@ show_preds(preds)
 
 
     
-![png](/assets/image/04_mnist_basics_files/04_mnist_basics_60_0.png)
+![png](blog/assets/image/04_mnist_basics_files/04_mnist_basics_60_0.png)
     
 
 
@@ -1334,7 +1334,7 @@ show_preds(preds)
 
 
     
-![png](/assets/image/04_mnist_basics_files/04_mnist_basics_67_0.png)
+![png](blog/assets/image/04_mnist_basics_files/04_mnist_basics_67_0.png)
     
 
 
@@ -1382,7 +1382,7 @@ plt.tight_layout()
 
 
     
-![png](/assets/image/04_mnist_basics_files/04_mnist_basics_71_0.png)
+![png](blog/assets/image/04_mnist_basics_files/04_mnist_basics_71_0.png)
     
 
 
@@ -1402,7 +1402,7 @@ step->predict[label=repeat]
 
 
     
-![svg](/assets/image/04_mnist_basics_files/04_mnist_basics_72_0.svg)
+![svg](blog/assets/image/04_mnist_basics_files/04_mnist_basics_72_0.svg)
     
 
 
@@ -1602,7 +1602,7 @@ plot_function(torch.sigmoid, title='Sigmoid', min=-4, max=4)
 
 
     
-![png](/assets/image/04_mnist_basics_files/04_mnist_basics_92_0.png)
+![png](blog/assets/image/04_mnist_basics_files/04_mnist_basics_92_0.png)
     
 
 
@@ -2093,7 +2093,7 @@ plot_function(F.relu)
 
 
     
-![png](/assets/image/04_mnist_basics_files/04_mnist_basics_130_0.png)
+![png](blog/assets/image/04_mnist_basics_files/04_mnist_basics_130_0.png)
     
 
 
@@ -2441,7 +2441,7 @@ plt.plot(L(learn.recorder.values).itemgot(2));
 
 
     
-![png](/assets/image/04_mnist_basics_files/04_mnist_basics_134_0.png)
+![png](blog/assets/image/04_mnist_basics_files/04_mnist_basics_134_0.png)
     
 
 
